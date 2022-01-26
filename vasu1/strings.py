@@ -1,2 +1,3 @@
 s= 'hello'
-for
+for val in s:
+    print(val)
